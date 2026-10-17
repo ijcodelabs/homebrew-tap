@@ -2,8 +2,8 @@
 # which goes into the tap (github.com/ijcodelabs/homebrew-tap, Casks/lattice.rb).
 #   brew install --cask ijcodelabs/tap/lattice
 cask "lattice" do
-  version "0.1.2"
-  sha256 "adacaee6c75ad05bef5fc6509bd2e7d78089c4dcf98ffd8f239bff7c53cca28a"
+  version "0.1.3"
+  sha256 "e65737c4f501ce029eb20f59a6f1318fa1d4431e5a993710e915b8fdf1d9be3c"
 
   url "https://github.com/ijcodelabs/lattice/releases/download/v#{version}/Lattice-#{version}.zip"
   name "Lattice"
